@@ -1,55 +1,57 @@
-# Semana 01: Fundamentos de Linux + Git Setup
-## Objetivos
-- Comprender estructura del filesystem
-- Navegar el sistema con confianza
-- Configurar Git correctamente
-## Contenido
+# Linux Lab - Repositorio de Aprendizaje
+## Estudiante
+** Nombre :** [ MARIA ISABEL NAVA ALBAN  ]
+** Universidad :** Universidad Tecnica de Oruro
+** Semestre :** I /2026
+## Descripcion
+Repositorio de aprendizaje Linux en 15 semanas .
+Cada semana incluye un capstone practico versionado con Git
+.
+## Progreso del Curso
+| Semana | Tema | Estado |
+| - - - - - - - -| - - - - - -| - - - - - - - -|
+| 01 | Fundamentos + Git | |
+| 02 | Manipulacion de Archivos | |
+| 03 | Procesamiento de Texto | |
+| 04 | Editores y Configuracion | |
+| 05 | Bash Scripting - Fundamentos | |
+| 06 | Bash Scripting - Condicionales | |
+| 07 | Bash Scripting - Loops | |
+| 08 | Bash Scripting - Avanzado | |
+| 09 | Gestion de Procesos | |
+| 10 | Systemd y Cron | |
+| 11 | Gestion de Paquetes | |
+| 12 | Usuarios y Permisos | |
+| 13 | Redes en Linux | |
+| 14 | Seguridad y Hardening | |
+| 15 | Proyecto Final | |
+## Estructura del Repositorio
+Semana 1: Fundamentos de Linux + Git 32
 ‘‘‘
+linux - lab /
+README . md
+. gitignore
 semana01 /
 README . md
 filesystem - map . md
 filesystem - diagram . txt
 ejemplos - practicos . md
+semana02 /
+( por completar )
+...
 ‘‘‘
-- ‘ filesystem - map . md ‘ - Documentacion detallada de
-directorios
-- ‘ filesystem - diagram . txt ‘ - Diagrama visual ASCII
-- ‘ ejemplos - practicos . md ‘ - Ejercicios guiados
-Semana 1: Fundamentos de Linux + Git 30
-## Comandos Aprendidos
-### Navegacion
-- ‘pwd ‘ - Print working directory
-- ‘cd ‘ - Change directory
-- ‘ls ‘ - List files
-- ‘ tree ‘ - Visualizar estructura
-### Ayuda
-- ‘man ‘ - Manual pages
-- ‘-- help ‘ - Ayuda rapida
-### Git Basico
-- ‘ git init ‘ - Inicializar repositorio
-- ‘ git add ‘ - Agregar al staging area
-- ‘ git commit ‘ - Guardar cambios
-- ‘ git status ‘ - Ver estado
-- ‘ git log ‘ - Ver historial
-## Checklist
-- [ x ] Repositorio git inicializado
-- [ x ] filesystem - map . md completo (10+ directorios )
-- [ x ] filesystem - diagram . txt creado
-- [ x ] ejemplos - practicos . md con comandos
-- [ x ] Minimo 5 commits descriptivos
-- [ x ] Repositorio en GitHub
-## Ejecucion
-‘‘‘ bash
-# Navegar por el sistema
-cd /
-ls - la
-pwd
-# Explorar con tree
-tree -L 1 /
-# Probar ejemplos
-# ( copiar comandos de ejemplos - practicos . md )
-‘‘‘
-## Recursos
-- Man pages : ‘ man ls ‘ , ‘ man bash ‘
-- FHS ( Filesystem Hierarchy Standard )
-- GitHub : https :// github . com / TU - USUARIO / linux - lab
+## Objetivos del Curso
+- Aprender linea de comandos Linux
+- Desarrollar scripts en Bash
+- Aprender administracion de sistemas
+- Construir portfolio en GitHub
+## Tecnologias
+- ** OS :** [ Coloque su Sistema Operativo donde realizo el
+Capstone ]
+- ** Shell :** Bash 5. x
+- ** VCS :** Git 2. x
+- ** Editor :** vim / nano
+- ** Hosting :** GitHub
+## Contacto
+- Email : [ navam6835@gmail.com ]
+- GitHub :https://github.com/MariaPS0023
