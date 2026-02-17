@@ -21,7 +21,7 @@ secrets . txt
 # IDEs
 . vscode /
 . idea /
-*. sublime -*
+*. sublime -*   -
 # Directorios de prueba
 test - data /
 scratch /
