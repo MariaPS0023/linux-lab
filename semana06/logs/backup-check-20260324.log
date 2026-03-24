@@ -1,0 +1,20 @@
+[2026-03-24 15:54:43] [INFO   ] === backup-check.sh v1.0.0 - Inicio ===
+[ ] [       ] 
+[2026-03-24 15:54:43] [INFO   ] Directorio objetivo: /home/usuario1linux/backup-prueba
+[ ] [       ] 
+[2026-03-24 15:54:43] [INFO   ] Verificando directorio: /home/usuario1linux/backup-prueba
+[ ] [       ] 
+[2026-03-24 15:54:43] [OK     ] Directorio accesible: /home/usuario1linux/backup-prueba
+[ ] [       ] 
+[2026-03-24 15:59:50] [INFO   ] === backup-check.sh v1.0.0 - Inicio ===
+[ ] [       ] 
+[2026-03-24 15:59:50] [INFO   ] Directorio objetivo: /home/usuario1linux/backup-prueba
+[ ] [       ] 
+[2026-03-24 15:59:50] [INFO   ] Verificando directorio: /home/usuario1linux/backup-prueba
+[ ] [       ] 
+[2026-03-24 15:59:50] [OK     ] Directorio accesible: /home/usuario1linux/backup-prueba
+[ ] [       ] 
+[2026-03-24 15:59:50] [INFO   ] Buscando archivos de backup (*. tar . gz )...
+[ ] [       ] 
+[2026-03-24 15:59:50] [ERROR  ] No se encontraron archivos .tar.gz en /home/usuario1linux/backup-prueba
+[ ] [       ] 
