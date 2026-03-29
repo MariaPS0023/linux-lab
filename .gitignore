@@ -25,4 +25,5 @@ secrets . txt
 # Directorios de prueba
 test - data /
 scratch /
-temp /
+temp /semana07/monito.log
+semana07/monitor.log
