@@ -27,3 +27,5 @@ test - data /
 scratch /
 temp /semana07/monito.log
 semana07/monitor.log
+reportes/*.txt
+reportes/.gitkeep
